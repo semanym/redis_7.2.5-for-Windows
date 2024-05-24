@@ -1,0 +1,1 @@
+strl.o: strl.c

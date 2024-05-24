@@ -1,0 +1,8 @@
+script_lua.o: script_lua.c script_lua.h server.h fmacros.h config.h \
+ solarisfixes.h rio.h sds.h connection.h ae.h monotonic.h atomicvar.h \
+ commands.h ../deps/lua/src/lua.h ../deps/lua/src/luaconf.h dict.h \
+ mt19937-64.h kvstore.h adlist.h zmalloc.h anet.h version.h util.h \
+ latency.h sparkline.h quicklist.h rax.h redismodule.h zipmap.h ziplist.h \
+ sha1.h endianconv.h crc64.h stream.h listpack.h rdb.h script.h \
+ ../deps/lua/src/lauxlib.h ../deps/lua/src/lua.h ../deps/lua/src/lualib.h \
+ ../deps/fpconv/fpconv_dtoa.h rand.h cluster.h resp_parser.h
