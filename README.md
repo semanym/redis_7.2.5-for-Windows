@@ -1,6 +1,6 @@
 # redis_7.2.5-for-WIndows
 
-A compiled version of Redis 7.2.5 that can run on Windows is available.
+A compiled version of Redis 7.2.5 that can run on Windows is available.(.exe in folder "src")
 
 I have compiled the Redis 7.2.5 version for Windows using the source code downloaded from the official website.Because the compilation process can be prone to various bugs and cumbersome, I have decided to upload it to GitHub to facilitate everyone's download of the precompiled Redis version that can be executed directly on Windows.
 
